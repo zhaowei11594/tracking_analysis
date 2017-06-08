@@ -1,0 +1,1 @@
+Comparing Kalman filtering with Particle filtering as ways to localize and track the location of a robot in a known planar environment. The position and orientation of the robot is state. The only observation available to the robot is a single laser beam that measures range between the robot and an obstacle directly in front of it. 
